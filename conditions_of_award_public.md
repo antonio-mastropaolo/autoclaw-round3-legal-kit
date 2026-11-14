@@ -1,7 +1,7 @@
 # Conditions of Award (public excerpt)
 
 **Matter:** CCU-OUC-2026-1147 (synthetic) · AURA Lab / AgentForge Cloud
-**Source:** Section 5 of the AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, as verified by the human reviewer.
+**Source:** Section 5 of the AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, **as corrected by the human verification pass**. Two corrections are already folded in below: the Usage Data / tenant-telemetry fix was raised from P2-1 ("raise") to **P0-17 ("must-agree")**, and the C-02 order-of-precedence cite was corrected to **MSA §1.12**. See `verification_lessons.md`.
 **How to read it:** **P0 = do not proceed to a purchase order without written agreement on that item.** P1 = negotiate in the same mark-up; risk-accept only in writing by a delegated official. P2 = raise and document.
 
 > **Synthetic demo. Not legal advice.** Fictional parties and paper. Clause numbers refer to the synthetic AgentForge Cloud documents.
@@ -38,10 +38,10 @@ For the Vice President for Research. P0 means: **do not proceed to the PO withou
 | **P1-7** | Public-records carve-out; no ban on legally required filing. | Checklist §3.7 | MSA §7.1, §18.10 | Negotiate; should be easy. | **negotiate** |
 | **P1-8** | SLA: 99.9% or 99.5% with a severe-outage credit ≥25% of monthly fee; 72-hour noticed, capped maintenance; Sev-1 same-day path; chronic failure = termination right. | Checklist §10.4; snapshot N | SLA §2.1, §3(a), §4, §6 | Negotiate. | **negotiate** |
 | **P1-9** | Publication and open-source right; short vendor-confidential review only. | Checklist §4.4 | MSA §6.4, §9.3 (silent on the right) | Negotiate; becomes P0 if P0-1 fails. | **negotiate** |
-| **P2-1** | Define Usage Data tightly; no model-improvement use. | Checklist §4.2 | MSA §1.4, §6.6; DPA §4.2(c) | Raise. Travels with P0-1. | **raise** |
-| **P2-2** | Third-Party model endpoints on Annex II if enabled; no training at those endpoints. | Checklist §4.2, §5.4 | MSA §1.15, §2.5 | Raise. | **raise** |
-| **P2-3** | Disputed-invoice exception to suspension. | Checklist §3.6 | MSA §3.2(d), §12.3 | Raise. | **raise** |
-| **P2-4** | UK/Swiss transfer addenda only if a University decision requires them. | Checklist §5.5 | DPA §8.3 | Raise / park. | **raise** |
+| **P0-17** | Define Usage Data tightly; no model-improvement use. Tenant telemetry carrying user IDs or feature events on research content must not become a training-license back door. | Checklist §4.2, §5.3; snapshot B; Brief §5.1–5.2 | MSA §1.4, §6.6; DPA §4.2(c) | Must-agree. Verification pass moved this up from P2-1 ("raise"): the memo found the trap as a P0 contradiction (C-07) but had down-ranked the fix where the decision-maker signs. Fold into the P0-1 must-agree set. | **must-agree** |
+| **P2-1** | Third-Party model endpoints on Annex II if enabled; no training at those endpoints. | Checklist §4.2, §5.4 | MSA §1.15, §2.5 | Raise. | **raise** |
+| **P2-2** | Disputed-invoice exception to suspension. | Checklist §3.6 | MSA §3.2(d), §12.3 | Raise. | **raise** |
+| **P2-3** | UK/Swiss transfer addenda only if a University decision requires them. | Checklist §5.5 | DPA §8.3 | Raise / park. | **raise** |
 
 ## Disposition
 

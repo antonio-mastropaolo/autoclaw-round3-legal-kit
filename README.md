@@ -22,7 +22,7 @@ The hard part is not any single clause. It is that a "comfort" sentence in one d
 ## Result
 
 - **Score vs the private key: 19.5 / 20** (19 caught in full with a correct cite and a usable fix; 1 in part; 0 missed; 0 invented clauses or case law). It mapped all 6 cross-document conflicts and, where it lacked a fact, raised an open question instead of guessing.
-- **A verification pass still found real defects to correct** — most importantly a privacy item the memo flagged as a top-priority (P0) contradiction but then down-ranked in the conditions table the decision-maker actually signs, plus one wrong-document citation. See `verification_lessons.md`.
+- **A verification pass still found real defects to correct** — most importantly a privacy item the memo flagged as a top-priority (P0) contradiction but then down-ranked in the conditions table the decision-maker actually signs, plus one wrong-document citation. **Both are corrected in this kit**: the usage-data fix is now condition **P0-17 ("must-agree")** instead of a P2 "raise", and the C-02 cite reads **MSA §1.12**. See `verification_lessons.md`.
 - **A deliverable pack others can reuse:** executive recommendation + contradiction matrix, conditions-of-award table, a one-page method card, and the full synthetic matter so you can re-run it yourself.
 
 ## Lessons — what to reuse
