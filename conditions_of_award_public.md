@@ -1,6 +1,6 @@
 # Conditions of Award (public excerpt)
 
-**Matter:** CCU-OUC-2026-1147 (synthetic) · AURA Lab / AgentForge Cloud
+**Matter:** CCU-OUC-2026-1147 (synthetic) · ARIA Lab / AgentForge Cloud
 **Source:** Section 5 of the AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, **as corrected by the human verification pass**. Two corrections are already folded in below: the Usage Data / tenant-telemetry fix was raised from P2-1 ("raise") to **P0-17 ("must-agree")**, and the C-02 order-of-precedence cite was corrected to **MSA §1.12**. See `verification_lessons.md`.
 **How to read it:** **P0 = do not proceed to a purchase order without written agreement on that item.** P1 = negotiate in the same mark-up; risk-accept only in writing by a delegated official. P2 = raise and document.
 
@@ -29,6 +29,8 @@ For the Vice President for Research. P0 means: **do not proceed to the PO withou
 | **P0-14** | No use of CCU name, logos, marks, laboratory, or faculty names in publicity without prior written approval of University Communications. | Checklist §10.1; snapshot G; Brief §5.7 | MSA §14.2 | Must-agree. Factual unadorned text list after an objection window is the only plausible fallback, and only if University Communications agrees. | **must-agree** |
 | **P0-15** | Insurance: CGL $1M/$2M; tech E&O and cyber including privacy-breach response $2M per claim; WC as required; certificates on request. | Checklist §7.3; snapshot F; Brief §5.5 | Vendor paper: silent | Must-agree on the program. Additional-insured "where commercially standard" is already the playbook language. | **must-agree** (P0/P1 in the playbook; treat as P0 on this research-data workload) |
 | **P0-16** | WCAG 2.1 AA and Section 508 as applicable; VPAT or equivalent on request; accessibility failure is a service defect. | Checklist §9.1–9.3; snapshot L | Vendor paper: silent | Must-agree on the contractual standard and VPAT. Remediation timeline can be negotiated. | **must-agree** (P0/P1 in the playbook; treat as P0 for a public university ICT buy) |
+| **P0-17** | Define Usage Data tightly; no model-improvement use. Tenant telemetry carrying user IDs or feature events on research content must not become a training-license back door. | Checklist §4.2, §5.3; snapshot B; Brief §5.1–5.2 | MSA §1.4, §6.6; DPA §4.2(c) | Must-agree. Verification pass moved this up from P2-1 ("raise"): the memo found the trap as a P0 contradiction (C-07) but had down-ranked the fix where the decision-maker signs. Fold into the P0-1 must-agree set. | **must-agree** |
+| **P0-18** | Order of precedence stated once and made non-defeasible. DPA controls personal-data processing; SLA controls only Uptime arithmetic and ordinary availability credits; no MSA exclusive-remedy or precedence sentence may defeat a DPA or SLA protection. | Checklist §2 item 3; Brief §5.4 | MSA Preamble, §8.1, §8.5; DPA Preamble, §13; SLA Preamble, §7.1 | Must-agree. This is what stops every other P0 from being argued away by a precedence sentence. | **must-agree** |
 | **P1-1** | No auto-renewal; or University-friendly non-renewal (30 days + 90-day reminder) and capped renewal pricing. | Checklist §3.5; snapshot M; Brief §5.8 | MSA §12.1, §5.5 | Negotiate. Remove auto-renew is the ask. | **negotiate** |
 | **P1-2** | University TFC on ≤30 days with refund; equalize or reverse 90/30. | Checklist §8.1 | MSA §12.2, §5.6 | Negotiate. | **negotiate** |
 | **P1-3** | PO terms and public-procurement certifications are not void. Late fees / collections conformed to Virginia prompt-payment rules. | Checklist §3.6 | MSA §5.2–5.3 | Negotiate. Human to confirm current Virginia figures. | **negotiate** |
@@ -38,9 +40,8 @@ For the Vice President for Research. P0 means: **do not proceed to the PO withou
 | **P1-7** | Public-records carve-out; no ban on legally required filing. | Checklist §3.7 | MSA §7.1, §18.10 | Negotiate; should be easy. | **negotiate** |
 | **P1-8** | SLA: 99.9% or 99.5% with a severe-outage credit ≥25% of monthly fee; 72-hour noticed, capped maintenance; Sev-1 same-day path; chronic failure = termination right. | Checklist §10.4; snapshot N | SLA §2.1, §3(a), §4, §6 | Negotiate. | **negotiate** |
 | **P1-9** | Publication and open-source right; short vendor-confidential review only. | Checklist §4.4 | MSA §6.4, §9.3 (silent on the right) | Negotiate; becomes P0 if P0-1 fails. | **negotiate** |
-| **P0-17** | Define Usage Data tightly; no model-improvement use. Tenant telemetry carrying user IDs or feature events on research content must not become a training-license back door. | Checklist §4.2, §5.3; snapshot B; Brief §5.1–5.2 | MSA §1.4, §6.6; DPA §4.2(c) | Must-agree. Verification pass moved this up from P2-1 ("raise"): the memo found the trap as a P0 contradiction (C-07) but had down-ranked the fix where the decision-maker signs. Fold into the P0-1 must-agree set. | **must-agree** |
 | **P2-1** | Third-Party model endpoints on Annex II if enabled; no training at those endpoints. | Checklist §4.2, §5.4 | MSA §1.15, §2.5 | Raise. | **raise** |
-| **P2-2** | Disputed-invoice exception to suspension. | Checklist §3.6 | MSA §3.2(d), §12.3 | Raise. | **raise** |
+| **P2-2** | Disputed-invoice exception to suspension. | Checklist §3.6 (PO terms / no-withholding posture) | MSA §5.2 (no set-off or withholding), §3.2(d), §12.3 | Raise. | **raise** |
 | **P2-3** | UK/Swiss transfer addenda only if a University decision requires them. | Checklist §5.5 | DPA §8.3 | Raise / park. | **raise** |
 
 ## Disposition

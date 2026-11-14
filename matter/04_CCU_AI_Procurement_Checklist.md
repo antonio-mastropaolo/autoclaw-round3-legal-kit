@@ -11,7 +11,7 @@
 
 This Checklist states the minimum legal, privacy, security, accessibility, and procurement positions that Coastal Commonwealth University ("**CCU**" or the "**University**"), a public institution of higher education organized under the laws of the Commonwealth of Virginia, expects to see in paper for a cloud AI-agent or similar software-as-a-service tool used in teaching, research, or administration.
 
-It is intended for use by the Office of University Counsel, Strategic Sourcing, Information Security, and the sponsoring unit (here, AURA Lab) when reviewing a vendor's master agreement, data processing addendum, and service level agreement. **Material deviation from a P0 item is a block or a condition of award, not a business concession the laboratory may waive.** P1 items should be negotiated or risk-accepted only in writing by an official with delegated contracting authority. P2 items should be raised and documented.
+It is intended for use by the Office of University Counsel, Strategic Sourcing, Information Security, and the sponsoring unit (here, ARIA Lab) when reviewing a vendor's master agreement, data processing addendum, and service level agreement. **Material deviation from a P0 item is a block or a condition of award, not a business concession the laboratory may waive.** P1 items should be negotiated or risk-accepted only in writing by an official with delegated contracting authority. P2 items should be raised and documented.
 
 This Checklist does not itself authorize signature, does not amend the University's actual (fictional) Board-approved terms, and does not substitute for unit-level data-classification review.
 
@@ -63,7 +63,7 @@ CCU is a public instrumentality. Vendor paper written for private commercial cus
 
 ## 5. Privacy, FERPA, and Data Protection
 
-**5.1 Data types.** The sponsoring unit must classify data before go-live. For AURA Lab's contemplated use: no PHI/HIPAA is in scope. **Student education records, or personally identifiable information from education records, may appear in researcher or research-assistant work product and shall be treated as FERPA-sensitive.**
+**5.1 Data types.** The sponsoring unit must classify data before go-live. For ARIA Lab's contemplated use: no PHI/HIPAA is in scope. **Student education records, or personally identifiable information from education records, may appear in researcher or research-assistant work product and shall be treated as FERPA-sensitive.**
 
 **5.2 FERPA (P0 if education records may be present).** If the service will receive education records, the vendor must: (a) act as a "school official" with a legitimate educational interest, or under another FERPA-authorized condition documented in the agreement; (b) use the records only to provide the service to the University; (c) not redisclose personally identifiable information except as the University directs or FERPA permits; (d) maintain direct University control as FERPA requires, including through subcontracting limits; and (e) return or destroy education records at the University's direction. **Product-analytics, advertising, or similar subprocessors (including tools such as Mixpanel or comparable telemetry vendors) shall not receive education records or identifiable research-workspace content unless a documented FERPA-compatible justification exists and the University has approved that subprocessor in writing.**
 
@@ -163,7 +163,7 @@ CCU is a public instrumentality. Vendor paper written for private commercial cus
 | Owner (fictional) | Office of University Counsel, in consultation with Strategic Sourcing and Information Security |
 | Version | 2.1 (15 August 2026) |
 | Applies to | Cloud AI-agent and similar research/teaching SaaS procurements |
-| Related (fictional) matter | CCU-OUC-2026-1147 — AURA Lab / AgentForge Cloud evaluation |
+| Related (fictional) matter | CCU-OUC-2026-1147 — ARIA Lab / AgentForge Cloud evaluation |
 
 ---
 
