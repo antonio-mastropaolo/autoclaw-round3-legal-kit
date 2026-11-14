@@ -1,6 +1,6 @@
 # Redline Priorities (Word-ready) — AutoClaw Legal Run, verified
 
-**Matter:** CCU-OUC-2026-1147 (synthetic) · Kelworth Lab / AgentForge Cloud
+**Matter:** CCU-OUC-2026-1147 (synthetic) · Coastal Commonwealth University / AgentForge Cloud
 **Source:** AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, Section 4, checked against the paper.
 **Use:** Convert these clause-by-clause asks into tracked-change `.docx` mark-ups (MSA, DPA, SLA).
 **Classification:** Synthetic matter. Not legal advice. No scoring-key content appears in this file.
@@ -496,7 +496,7 @@ Organized MSA, then DPA, then SLA, then Order Form. P0 first inside each documen
 
 The Order Form is not in the packet. The following must appear on it or in a University rider. I am not inventing commercial numbers.
 
-- Customer legal name: **Coastal Commonwealth University**. Not "Kelworth Lab," not a PI.
+- Customer legal name: **Coastal Commonwealth University**. Not a department, not a research group, not a PI.
 - Seats: 20 researcher seats; 5 named collaborator guest seats, limited to project workspaces designated by the laboratory director.
 - Initial term: twelve months; **no auto-renewal** (MSA-R17).
 - Fees: academic catalog rate consistent with ~US $60,000 first-year, exclusive of taxes; exemption certificate path (MSA §5.4).

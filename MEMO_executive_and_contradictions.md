@@ -1,6 +1,6 @@
 # AutoClaw Legal Run — Executive Recommendation & Contradiction Matrix (public excerpt)
 
-**Matter:** CCU-OUC-2026-1147 (synthetic) · Kelworth Lab evaluation of AgentForge Cloud
+**Matter:** CCU-OUC-2026-1147 (synthetic) · School of Computing evaluation of AgentForge Cloud
 **Produced by:** AutoClaw Legal Assistant on **GLM-5.3-FlashX-Legal**, from five source files (intake brief, MSA, DPA, SLA, procurement checklist).
 **This excerpt:** the executive recommendation and the cross-document contradiction matrix from the full agent run. **The full memo was ~23,000 words; what ships in this kit is roughly 14,000 words of it** — the executive summary, the contradiction matrix (C-01–C-25), the redline asks, and the conditions-of-award table. The remainder (per-issue risk detail and the open-question list) was not published, so those counts must be taken on faith; every count below is checkable against the files in this repo. Where the full memo's numbering is retained in a cross-reference, the referenced row is named, not just its number.
 

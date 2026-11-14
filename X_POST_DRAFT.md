@@ -1,6 +1,6 @@
 # X Post Draft — AutoClaw Round 3 (Legal Practice)
 
-**Account:** Antonio Mastropaolo (CS professor). **Personal benchmark — not an institutional endorsement, and not legal advice.** The lab named inside the synthetic matter (**Kelworth Lab**) is fictional and is *not* the author's real lab; the matter is set at a fictional university (Coastal Commonwealth University).
+**Account:** Antonio Mastropaolo (CS professor). **Personal benchmark — not an institutional endorsement, and not legal advice.** The matter is set at a fictional university (Coastal Commonwealth University) and involves only fictional parties; no real institution, department, or person is depicted.
 
 **Required:** mention `@AutoClawAIer`, include `#BuiltWithAutoClaw`, original public post, and the four labelled sections **Context / Process / Result / Lessons**. **Do NOT include the AutoClaw account email anywhere in the post** — it goes in the Round 3 form only.
 
@@ -10,7 +10,7 @@
 
 The four section labels are spelled out so a judge scanning for them finds them. ~2,013 characters plus the tags — needs a premium long post; if the account is not premium, use the 7-post thread below.
 
-**CONTEXT** — Can an AI legal assistant do real in-house contract diligence, not a toy demo? I built a synthetic matter: a public university's lab buying seats on a cloud AI-agent platform. Three vendor contracts (MSA + DPA + SLA) plus the university's own AI-procurement checklist, deliberately inconsistent *across* documents — a comfort sentence in one is quietly undone by a licence or an exclusive-remedy clause in another.
+**CONTEXT** — Can an AI legal assistant do real in-house contract diligence, not a toy demo? I built a synthetic matter: a public university's School of Computing buying seats on a cloud AI-agent platform. Three vendor contracts (MSA + DPA + SLA) plus the university's own AI-procurement checklist, deliberately inconsistent *across* documents — a comfort sentence in one is quietly undone by a licence or an exclusive-remedy clause in another.
 
 **PROCESS** — One pass through @AutoClawAIer on GLM-5.3-FlashX-Legal (Legal Assistant), uploading only the five source files — never my scoring notes. The prompt required pinpoint cites, a fact-vs-inference split, a dedicated cross-document contradiction pass, and a conditions table. It produced a long counsel memo (full run ~23,000 words) with a 25-row contradiction matrix (C-01–C-25), 45 clause-level redline asks (Markdown, ready to paste into a Word mark-up — no .docx ships), and a P0/P1/P2 conditions-of-award table.
 
@@ -28,7 +28,7 @@ Synthetic, fictional parties, not legal advice. Kit (method card + full matter, 
 
 ### 1/7
 
-**CONTEXT** — Can an AI legal assistant do real in-house contract diligence, not a toy demo? I built a synthetic matter: a university lab buying a cloud AI-agent platform. Vendor MSA + DPA + SLA plus the university's procurement checklist, inconsistent *across* documents.
+**CONTEXT** — Can an AI legal assistant do real in-house contract diligence, not a toy demo? I built a synthetic matter: a university unit buying a cloud AI-agent platform. Vendor MSA + DPA + SLA plus the university's procurement checklist, inconsistent *across* documents.
 
 ### 2/7
 

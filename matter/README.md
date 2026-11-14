@@ -1,4 +1,4 @@
-# Kelworth Lab / AgentForge Cloud — Synthetic Matter Packet
+# Coastal Commonwealth University / AgentForge Cloud — Synthetic Matter Packet
 
 **AutoClaw Round 3 — Legal Practice Track (Outstanding Entry Demo Materials)**
 
@@ -21,7 +21,7 @@ No document in this packet is an agreement of Microsoft, OpenAI, Anthropic, Z.ai
 | Role | Name | Notes |
 | :--- | :--- | :--- |
 | Customer / Institution | Coastal Commonwealth University ("CCU") | Fictional public university organized under the laws of the Commonwealth of Virginia |
-| Sponsoring unit | Kelworth Lab | Fictional research laboratory within CCU's School of Computing |
+| Sponsoring unit | School of Computing | Fictional academic unit; the group is not a legal entity |
 | Provider | AgentForge Inc. | Fictional Delaware corporation |
 | Service | AgentForge Cloud | Fictional multi-tenant cloud AI-agent software-as-a-service platform |
 

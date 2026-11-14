@@ -1,6 +1,6 @@
 # Verification & Lessons
 
-**Matter:** CCU-OUC-2026-1147 (synthetic) · Kelworth Lab / AgentForge Cloud
+**Matter:** CCU-OUC-2026-1147 (synthetic) · Coastal Commonwealth University / AgentForge Cloud
 **Run:** AutoClaw Legal Assistant on GLM-5.3-FlashX-Legal, five source files, no scoring notes uploaded.
 
 > **Synthetic demo. Not legal advice.**

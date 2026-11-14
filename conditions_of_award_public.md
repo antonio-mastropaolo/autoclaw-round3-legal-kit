@@ -1,6 +1,6 @@
 # Conditions of Award (public excerpt)
 
-**Matter:** CCU-OUC-2026-1147 (synthetic) · Kelworth Lab / AgentForge Cloud
+**Matter:** CCU-OUC-2026-1147 (synthetic) · Coastal Commonwealth University / AgentForge Cloud
 **Source:** Section 5 of the AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, **as corrected by the human verification pass**. Two corrections are already folded in below: the Usage Data / tenant-telemetry fix was raised from P2-1 ("raise") to **P0-17 ("must-agree")**, and the C-02 order-of-precedence cite was corrected to **MSA §1.12**. See `verification_lessons.md`.
 **How to read it:** **P0 = do not proceed to a purchase order without written agreement on that item.** P1 = negotiate in the same mark-up; risk-accept only in writing by a delegated official. P2 = raise and document.
 

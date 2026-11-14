@@ -1,7 +1,7 @@
 # Method Card — University Cloud-AI Vendor Review
 
 **One-page reusable method.** Fork this card for any public-institution (or similarly constrained) review of a cloud AI-agent or research SaaS vendor.  
-**Demo packet:** Coastal Commonwealth University / Kelworth Lab vs AgentForge Cloud (synthetic).  
+**Demo packet:** Coastal Commonwealth University vs AgentForge Cloud (synthetic).  
 **Not legal advice.** This is a workflow, not an opinion on any real vendor or institution.
 
 ---
