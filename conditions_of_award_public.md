@@ -1,0 +1,57 @@
+# Conditions of Award (public excerpt)
+
+**Matter:** CCU-OUC-2026-1147 (synthetic) · AURA Lab / AgentForge Cloud
+**Source:** Section 5 of the AutoClaw (GLM-5.3-FlashX-Legal) counsel memo, as verified by the human reviewer.
+**How to read it:** **P0 = do not proceed to a purchase order without written agreement on that item.** P1 = negotiate in the same mark-up; risk-accept only in writing by a delegated official. P2 = raise and document.
+
+> **Synthetic demo. Not legal advice.** Fictional parties and paper. Clause numbers refer to the synthetic AgentForge Cloud documents.
+
+---
+
+
+For the Vice President for Research. P0 means: **do not proceed to the PO without written agreement on that item.** I am not asking a delegated official to overrule the playbook on any P0. Default remains: no overrule.
+
+| # | Condition (plain English) | Checklist / brief hook | Vendor-paper cites | Recommendation / fallback | Status proposed |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **P0-1** | Delete the training / fine-tune / benchmark / improvement license. Ban must cover Customer Data, Outputs, prompts, and telemetry, personal or not, and must survive termination. | Checklist §4.2, §5.3, §8.3; snapshot B; Brief §5.1–5.2 | MSA §6.3(d), §6.1, §6.6, §7.2, §12.4; DPA §4.2–4.3, preamble | Must-agree. No fallback that leaves MSA §6.3(d) in force. Narrow no-further-training grandfather only if weights cannot be unwound. | **must-agree** |
+| **P0-2** | CCU owns Customer Data and Outputs. Vendor license limited to providing the Service. Feedback is a license, not an assignment. | Checklist §4.1, §4.3; snapshot A; Brief §5.1 | MSA §6.2–6.5 | Must-agree on ownership and license scope. Feedback may be non-exclusive license rather than full assignment text if ownership of research ideas is protected. | **must-agree** |
+| **P0-3** | Handover of not less than 90 days (ask 180) of continued access or equivalent managed export, then certified deletion. Deletion does not cut off handover. | Checklist §8.2–8.3; snapshot D; Brief §5.3 | MSA §12.4–12.5; DPA §11.1–11.4 | Must-agree on ≥90 days and on "deletion waits." 180 is the ask; 90 is the floor. | **must-agree** |
+| **P0-4** | Vendor ordinary cap = greater of 12 months' fees paid or payable or US $500,000 (here, US $500,000). Carve-outs for willful / gross, confidentiality, indemnity, and data-protection / security costs. | Checklist §7.1–7.2; snapshot E; Brief §5.5 | MSA §11.2–11.3; DPA §12 | Must-agree on the floor and on security / confidentiality / indemnity carve-outs. Super-cap (e.g., 2–3×) rather than unlimited for security is negotiable; three months / no breach costs is not. | **must-agree** |
+| **P0-5** | Service credits are not the exclusive remedy for security failure, Personal Data Breach, or loss of University data. | Checklist §6.5; snapshots E, N; Brief §5.4 | MSA §8.3; SLA preamble, §4.2, §4.4, §5.2; DPA §12 | Must-agree. Credits may remain exclusive for ordinary downtime. | **must-agree** |
+| **P0-6** | Delete the University's indemnity of the vendor (or recast to a narrow Customer Data copyright/trade-secret indemnity that excludes the Service, models, and Outputs). Widen vendor IP indemnity; take it out of the cap; remove exclusive-remedy. | Checklist §3.2, §3.4; snapshot H | MSA §10.1–10.4; MSA §11.3 | Must-agree on removing §10.1(b) and §10.1(d) and on a real vendor indemnity. If confirmed Virginia authority is "no customer indemnity at all," delete §10.1. | **must-agree** |
+| **P0-7** | Virginia law, or silence; no exclusive Delaware venue; no jury waiver; no class waiver; delete "no public-entity terms"; reserve sovereign immunity; appropriations override. | Checklist §3.2–3.3; snapshot H; Brief §5.8 | MSA §17.1–17.5 | Must-agree. Fallback: silent law/venue, or Virginia state court. Wilmington exclusive + jury + class is not a fallback. | **must-agree** |
+| **P0-8** | FERPA-capable terms: school-official or other documented authorized use; use and redisclosure limits; return/destroy at University direction. | Checklist §5.1–5.2; snapshot C; Brief §4–5 | MSA §4.1–4.2; DPA §3.3; DPA Annex I | Must-agree if education records may be present, which the Brief says they may. If the laboratory later certifies in writing that no education records or PII from education records will ever be placed on the Service, this can be recast as a use restriction plus monitoring — that would be a delegated-official decision, and I do not recommend it on this intake. | **must-agree** |
+| **P0-9** | Mixpanel and any product-analytics / advertising subprocessor shall not receive education records or identifiable research-workspace content, unless CCU approves in writing. Removable without terminating the Service. | Checklist §5.2, §5.4; snapshots C, I; Brief §5.6 | DPA Annex II; DPA §7.4; MSA §8.5 | Must-agree on the block-by-default. Written CCU approval of Mixpanel is a possible end-state only after OQ-04 is answered and Information Security / FERPA officer sign off. | **must-agree** |
+| **P0-10** | Subprocessor notice: 30 days' advance (emergency excepted), meaningful objection, DPA controls over MSA §8.5. | Checklist §5.4 | MSA §8.5; DPA §7.3 | Must-agree on 30-day advance and on DPA control. Objection remedy may be exclude-the-subprocessor rather than terminate-the-service. | **must-agree** |
+| **P0-11** | Personal-data / security-incident notice without undue delay and in any event within 72 hours of awareness. DPA §10 controls. SLA five-business-day / "in lieu of" comes out. | Checklist §5.6; snapshot K; Brief §5.4 | DPA §10.1; SLA §1.4, §5.1; MSA §8.3 | Must-agree on 72 hours from awareness. Channel is negotiable; the clock and the trigger are not. | **must-agree** |
+| **P0-12** | Customer Data at rest in the United States. No Singapore. Cloudflare global edge and non-U.S. support access require prior University approval. | Checklist §6.3; snapshot I; Brief §5.4 | DPA §8.1, §8.3; DPA Annex II | Must-agree on US at-rest covenant. Support-access list is a condition of award once the vendor states where staff sit. | **must-agree** |
+| **P0-13** | Affirmative security measures in the contract. Current SOC 2 Type II and pen-test summary ≤12 months old, on request. | Checklist §6.1–6.2; snapshot J; Brief §5.4 | MSA §8.2; DPA §6, Annex III | Must-agree on the contractual commitment and on SOC 2 Type II. Pen-test **summary** (not the full report) is the playbook floor. | **must-agree** |
+| **P0-14** | No use of CCU name, logos, marks, laboratory, or faculty names in publicity without prior written approval of University Communications. | Checklist §10.1; snapshot G; Brief §5.7 | MSA §14.2 | Must-agree. Factual unadorned text list after an objection window is the only plausible fallback, and only if University Communications agrees. | **must-agree** |
+| **P0-15** | Insurance: CGL $1M/$2M; tech E&O and cyber including privacy-breach response $2M per claim; WC as required; certificates on request. | Checklist §7.3; snapshot F; Brief §5.5 | Vendor paper: silent | Must-agree on the program. Additional-insured "where commercially standard" is already the playbook language. | **must-agree** (P0/P1 in the playbook; treat as P0 on this research-data workload) |
+| **P0-16** | WCAG 2.1 AA and Section 508 as applicable; VPAT or equivalent on request; accessibility failure is a service defect. | Checklist §9.1–9.3; snapshot L | Vendor paper: silent | Must-agree on the contractual standard and VPAT. Remediation timeline can be negotiated. | **must-agree** (P0/P1 in the playbook; treat as P0 for a public university ICT buy) |
+| **P1-1** | No auto-renewal; or University-friendly non-renewal (30 days + 90-day reminder) and capped renewal pricing. | Checklist §3.5; snapshot M; Brief §5.8 | MSA §12.1, §5.5 | Negotiate. Remove auto-renew is the ask. | **negotiate** |
+| **P1-2** | University TFC on ≤30 days with refund; equalize or reverse 90/30. | Checklist §8.1 | MSA §12.2, §5.6 | Negotiate. | **negotiate** |
+| **P1-3** | PO terms and public-procurement certifications are not void. Late fees / collections conformed to Virginia prompt-payment rules. | Checklist §3.6 | MSA §5.2–5.3 | Negotiate. Human to confirm current Virginia figures. | **negotiate** |
+| **P1-4** | Assignment: University internal/successor free; vendor change-of-control needs notice and consent in the Checklist cases. | Checklist §3.8 | MSA §16.1 | Negotiate. | **negotiate** |
+| **P1-5** | Vendor audits of CCU: 15 business days, seat-count records only, no research-facility access, 1×/year. | Checklist §10.2 | MSA §15.1–15.3 | Negotiate. | **negotiate** |
+| **P1-6** | Export-control cooperation: hosting locations, support-access locations, access-control features. | Checklist §10.3; Brief §4 | MSA §13.2; SLA §6.4 | Negotiate. | **negotiate** |
+| **P1-7** | Public-records carve-out; no ban on legally required filing. | Checklist §3.7 | MSA §7.1, §18.10 | Negotiate; should be easy. | **negotiate** |
+| **P1-8** | SLA: 99.9% or 99.5% with a severe-outage credit ≥25% of monthly fee; 72-hour noticed, capped maintenance; Sev-1 same-day path; chronic failure = termination right. | Checklist §10.4; snapshot N | SLA §2.1, §3(a), §4, §6 | Negotiate. | **negotiate** |
+| **P1-9** | Publication and open-source right; short vendor-confidential review only. | Checklist §4.4 | MSA §6.4, §9.3 (silent on the right) | Negotiate; becomes P0 if P0-1 fails. | **negotiate** |
+| **P2-1** | Define Usage Data tightly; no model-improvement use. | Checklist §4.2 | MSA §1.4, §6.6; DPA §4.2(c) | Raise. Travels with P0-1. | **raise** |
+| **P2-2** | Third-Party model endpoints on Annex II if enabled; no training at those endpoints. | Checklist §4.2, §5.4 | MSA §1.15, §2.5 | Raise. | **raise** |
+| **P2-3** | Disputed-invoice exception to suspension. | Checklist §3.6 | MSA §3.2(d), §12.3 | Raise. | **raise** |
+| **P2-4** | UK/Swiss transfer addenda only if a University decision requires them. | Checklist §5.5 | DPA §8.3 | Raise / park. | **raise** |
+
+## Disposition
+
+**Do not proceed to a purchase order on 26 November 2026 unless every P0 row above is agreed in writing.** I do not recommend that a delegated official overrule the playbook on any P0 to meet the laboratory's date.
+
+If the vendor agrees the P0s, the PO may issue, subject to the P1 items still traveling in the mark-up (auto-renewal, TFC, PO terms, assignment, audit, export cooperation, public records, SLA quality, publication right). P2 items should be raised and documented; they are not, by themselves, PO-blocking.
+
+If the vendor refuses any P0, **do not proceed.** Tell the laboratory that the 26 November target moves, or that the use case moves to a different product. Faculty enthusiasm and a sponsored-project milestone do not move a P0 (Brief §5; Checklist §1).
+
+
+---
+
+*Public excerpt. Synthetic matter only. Not legal advice. This intake does not authorize signature.*
