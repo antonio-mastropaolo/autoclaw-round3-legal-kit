@@ -1,7 +1,7 @@
 # X Post Draft — AutoClaw Round 3 (Legal Practice)
 
 **Account:** Antonio Mastropaolo (CS professor, AURA Lab)
-**Required:** mention `@AutoClawAIer`, include `#BuiltWithAutoClaw`, original public post, Context/Process/Result/Lessons. **Do NOT include the AutoClaw account email anywhere in the post.** Replace `[DEMO_URL]` with the public-kit link before posting.
+**Required:** mention `@AutoClawAIer`, include `#BuiltWithAutoClaw`, original public post, Context/Process/Result/Lessons. **Do NOT include the AutoClaw account email anywhere in the post.** Replace `https://github.com/antonio-mastropaolo/autoclaw-round3-legal-kit` with the public-kit link before posting.
 
 ---
 
@@ -27,7 +27,7 @@ But a high score ≠ trust it. My verification pass caught a real failure: the m
 
 Lesson: grade the agent's decision *table*, not just its issue list — and check every cite against the paper.
 
-Full reusable kit (method card + synthetic matter + redacted deliverables), all fictional, not legal advice: [DEMO_URL]
+Full reusable kit (method card + synthetic matter + redacted deliverables), all fictional, not legal advice: https://github.com/antonio-mastropaolo/autoclaw-round3-legal-kit
 
 @AutoClawAIer #BuiltWithAutoClaw
 
@@ -35,7 +35,7 @@ Full reusable kit (method card + synthetic matter + redacted deliverables), all 
 
 ## ALT — single-post version
 
-I asked whether an AI legal assistant could run a full cloud-vendor contract review, not a toy demo. Built a synthetic university matter — MSA + DPA + SLA + procurement checklist, inconsistent across documents — and ran it through @AutoClawAIer on GLM-5.3-FlashX-Legal. One pass produced a ~23k-word counsel memo: cross-document contradiction matrix, 45 Word-ready redlines, a P0/P1/P2 conditions table, 20 open questions. I scored it against a private 20-issue answer key written before the run (never shown to the agent): 19.5/20, 0 invented clauses. My verification pass still caught one that matters — a P0 privacy trap it found but down-ranked in the sign-off table — which I corrected. Lesson: grade the agent's decision table, not just its issue list. Reusable kit (synthetic, not legal advice): [DEMO_URL] #BuiltWithAutoClaw
+I asked whether an AI legal assistant could run a full cloud-vendor contract review, not a toy demo. Built a synthetic university matter — MSA + DPA + SLA + procurement checklist, inconsistent across documents — and ran it through @AutoClawAIer on GLM-5.3-FlashX-Legal. One pass produced a ~23k-word counsel memo: cross-document contradiction matrix, 45 Word-ready redlines, a P0/P1/P2 conditions table, 20 open questions. I scored it against a private 20-issue answer key written before the run (never shown to the agent): 19.5/20, 0 invented clauses. My verification pass still caught one that matters — a P0 privacy trap it found but down-ranked in the sign-off table — which I corrected. Lesson: grade the agent's decision table, not just its issue list. Reusable kit (synthetic, not legal advice): https://github.com/antonio-mastropaolo/autoclaw-round3-legal-kit #BuiltWithAutoClaw
 
 ---
 
