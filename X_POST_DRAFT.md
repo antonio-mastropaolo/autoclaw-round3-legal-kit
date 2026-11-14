@@ -1,6 +1,6 @@
 # X Post Draft — AutoClaw Round 3 (Legal Practice)
 
-**Account:** Antonio Mastropaolo (CS professor). **Personal benchmark — not an institutional endorsement, and not legal advice.** The lab named inside the synthetic matter (**ARIA Lab**) is fictional and is *not* the author's real lab; the matter is set at a fictional university (Coastal Commonwealth University).
+**Account:** Antonio Mastropaolo (CS professor). **Personal benchmark — not an institutional endorsement, and not legal advice.** The lab named inside the synthetic matter (**Kelworth Lab**) is fictional and is *not* the author's real lab; the matter is set at a fictional university (Coastal Commonwealth University).
 
 **Required:** mention `@AutoClawAIer`, include `#BuiltWithAutoClaw`, original public post, and the four labelled sections **Context / Process / Result / Lessons**. **Do NOT include the AutoClaw account email anywhere in the post** — it goes in the Round 3 form only.
 

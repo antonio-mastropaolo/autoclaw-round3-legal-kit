@@ -2,13 +2,13 @@
 
 **An AutoClaw Round 3 — Legal Practice entry.** A complete, reusable in-house-counsel workflow for reviewing a cloud AI-agent vendor's **MSA + DPA + SLA** against a public university's procurement playbook — run end to end in **AutoClaw (GLM-5.3-FlashX-Legal)**, then independently verified by a human.
 
-> **Synthetic demo. Not legal advice.** Every party, contract, and fact in this kit is fictional (Coastal Commonwealth University / ARIA Lab vs AgentForge Cloud). Nothing here is an agreement of, or advice about, any real university, vendor, Microsoft, OpenAI, Anthropic, Z.ai, or AutoClaw. Do not use these drafts in place of advice from qualified counsel.
+> **Synthetic demo. Not legal advice.** Every party, contract, and fact in this kit is fictional (Coastal Commonwealth University / Kelworth Lab vs AgentForge Cloud). Nothing here is an agreement of, or advice about, any real university, vendor, Microsoft, OpenAI, Anthropic, Z.ai, or AutoClaw. Do not use these drafts in place of advice from qualified counsel.
 
 ---
 
 ## Context — the problem
 
-A fictional public research lab (ARIA Lab, at Coastal Commonwealth University) wants seats on a cloud AI-agent platform. The service will hold unpublished research, code, and possibly student/collaborator data. Counsel has a 14-day clock and the vendor's standard paper: a Master Subscription Agreement, a Data Processing Addendum (with annexes), and a Service Level Agreement, plus the university's own AI-procurement checklist.
+A fictional public research lab (Kelworth Lab, at Coastal Commonwealth University) wants seats on a cloud AI-agent platform. The service will hold unpublished research, code, and possibly student/collaborator data. Counsel has a 14-day clock and the vendor's standard paper: a Master Subscription Agreement, a Data Processing Addendum (with annexes), and a Service Level Agreement, plus the university's own AI-procurement checklist.
 
 The hard part is not any single clause. It is that a "comfort" sentence in one document is quietly undone by a license, an exclusive-remedy clause, or a precedence rule in another. A single-document redline misses that. The task: decide whether the university may proceed to a purchase order, and on exactly what conditions — with pinpoint cites, cross-document conflict mapping, Word-ready redlines, and a conditions-of-award table a VP for Research can sign.
 

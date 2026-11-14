@@ -1,4 +1,4 @@
-# Matter Brief — ARIA Lab Evaluation of AgentForge Cloud
+# Matter Brief — Kelworth Lab Evaluation of AgentForge Cloud
 
 **Coastal Commonwealth University — Office of University Counsel**
 **Confidential — Attorney-Client Privileged / Attorney Work Product (fictional)**
@@ -7,9 +7,9 @@
 | :--- | :--- |
 | Matter no. | CCU-OUC-2026-1147 (synthetic) |
 | Intake date | 12 November 2026 |
-| Requesting unit | ARIA Lab, School of Computing |
+| Requesting unit | Kelworth Lab, School of Computing |
 | Assigned counsel | Simone Alvarez, Associate University Counsel (fictional) |
-| Business owner | Prof. Julian Hartwell, Director, ARIA Lab (fictional) |
+| Business owner | Prof. Julian Hartwell, Director, Kelworth Lab (fictional) |
 | Procurement lead | Thomas Reeve, Director of Strategic Sourcing (fictional) |
 | Authorizing official (anticipated) | Dr. Priya Nandakumar, Vice President for Research (fictional) |
 | Target PO date | 26 November 2026 (fourteen (14) calendar days from intake) |
@@ -19,7 +19,7 @@
 
 ## 1. Purpose of this Intake
 
-Counsel is asked to review the vendor's standard paper — Master Subscription Agreement v3.0, Data Processing Addendum, and Service Level Agreement — and to advise whether Coastal Commonwealth University ("**CCU**" or the "**University**") may proceed to a purchase order for AgentForge Cloud seats for ARIA Lab, and on what conditions. The laboratory needs a cleared path to purchase within fourteen (14) days. This brief states the commercial goal, the data that will be placed on the service, the University's must-haves, and the questions counsel should resolve before signature.
+Counsel is asked to review the vendor's standard paper — Master Subscription Agreement v3.0, Data Processing Addendum, and Service Level Agreement — and to advise whether Coastal Commonwealth University ("**CCU**" or the "**University**") may proceed to a purchase order for AgentForge Cloud seats for Kelworth Lab, and on what conditions. The laboratory needs a cleared path to purchase within fourteen (14) days. This brief states the commercial goal, the data that will be placed on the service, the University's must-haves, and the questions counsel should resolve before signature.
 
 This intake does not authorize signature. No commitment has been made to AgentForge Inc.
 
@@ -29,7 +29,7 @@ This intake does not authorize signature. No commitment has been made to AgentFo
 
 **Customer / Institution.** Coastal Commonwealth University, a public institution of higher education organized under the laws of the Commonwealth of Virginia, with its principal campus at 100 Tidewater Green, Harbor Point, Virginia 23510 (fictional address). The contracting party must be the University, not the laboratory and not any individual investigator.
 
-**Sponsoring unit.** The Autonomous Understanding and Research Agents Laboratory ("**ARIA Lab**"), a research laboratory within the School of Computing. ARIA Lab conducts academic research on multi-agent systems, human-AI collaboration, and research-workflow automation, and collaborates with investigators at other institutions under data-use and visiting-researcher arrangements.
+**Sponsoring unit.** The Autonomous Understanding and Research Agents Laboratory ("**Kelworth Lab**"), a research laboratory within the School of Computing. Kelworth Lab conducts academic research on multi-agent systems, human-AI collaboration, and research-workflow automation, and collaborates with investigators at other institutions under data-use and visiting-researcher arrangements.
 
 **Provider.** AgentForge Inc., a Delaware corporation with a stated principal place of business at 880 Ember Wharf, Suite 14, San Francisco, California 94107 (fictional), offering a multi-tenant cloud service branded "**AgentForge Cloud**."
 
@@ -39,10 +39,10 @@ This intake does not authorize signature. No commitment has been made to AgentFo
 
 ## 3. Commercial Goal
 
-ARIA Lab seeks to subscribe to AgentForge Cloud for a twelve-month initial term, as follows:
+Kelworth Lab seeks to subscribe to AgentForge Cloud for a twelve-month initial term, as follows:
 
-- **Twenty (20) researcher seats** for CCU faculty, staff, postdoctoral researchers, and enrolled graduate and undergraduate research assistants assigned to ARIA Lab projects; and
-- **Five (5) collaborator guest seats** for named investigators at other institutions who participate in ARIA Lab projects under existing collaboration agreements, with access limited to project workspaces designated by the laboratory director.
+- **Twenty (20) researcher seats** for CCU faculty, staff, postdoctoral researchers, and enrolled graduate and undergraduate research assistants assigned to Kelworth Lab projects; and
+- **Five (5) collaborator guest seats** for named investigators at other institutions who participate in Kelworth Lab projects under existing collaboration agreements, with access limited to project workspaces designated by the laboratory director.
 
 Approximate first-year spend, at the vendor's quoted academic catalog rate, is Sixty Thousand United States Dollars (US $60,000), exclusive of taxes, overage, and optional professional-services hours. Seats will be used to draft and iterate research code and notes, run agent workflows against laboratory repositories, and coordinate tasking among researchers and guests. The service will not be used for clinical care, for the University's official student-information system, or as the system of record for sponsored-award financials.
 
@@ -69,7 +69,7 @@ Counsel should assume that "Customer Data" will include both personal data and n
 
 ## 5. Must-Haves (Do-Not-Proceed Without)
 
-The following positions are required by the University's AI-procurement playbook and by ARIA Lab's intended use. Material deviation should be treated as a block or as a condition of award, not as a business concession for the laboratory to waive.
+The following positions are required by the University's AI-procurement playbook and by Kelworth Lab's intended use. Material deviation should be treated as a block or as a condition of award, not as a business concession for the laboratory to waive.
 
 1. **Intellectual property.** The University owns prompts, inputs, and outputs created by or for CCU users, and all Customer Data. Any license to the Provider is limited to providing the service to CCU. No broad license for service improvement that swallows research IP.
 2. **No training on Customer Data.** The Provider shall not use Customer Data, prompts, or outputs to train, fine-tune, or otherwise improve foundation models or the Provider's models, whether or not the content is classified as "personal data."
@@ -97,7 +97,7 @@ Please return: (a) a risk memo with source cites to the MSA, DPA, SLA, and the C
 
 ## 7. Contacts (Fictional)
 
-- Prof. Julian Hartwell, Director, ARIA Lab — j.hartwell@ccu-example.edu
+- Prof. Julian Hartwell, Director, Kelworth Lab — j.hartwell@ccu-example.edu
 - Simone Alvarez, Associate University Counsel — s.alvarez@ccu-example.edu
 - Thomas Reeve, Strategic Sourcing — t.reeve@ccu-example.edu
 - AgentForge account lead (vendor): Mara Ellison, Academic Programs — m.ellison@agentforge-example.com
